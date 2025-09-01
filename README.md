@@ -3,12 +3,11 @@
 <p align="center"> 
 <img width="300px" src= "https://github.com/05kleinthenewbie/05kleinthenewbie/blob/a279a0849d81ca88657c0343368a8f81abef6c1a/profile.png" align="center" style="border-radius: 50%; display: block; margin: auto;" />
 <h2 align="center">Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"/>, its me 05kleinthenewbie</h2>
-</p>
-</p>
+  
 <img align="center" src="https://skillicons.dev/icons?i=ts,js,html,css,react,express,vscode,tailwind,git,github&theme=dark"/>
 <p> <img src="https://komarev.com/ghpvc/?username=itsmenewbie03&style=for-the-badge&color=green"/>
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Im+new+in+programming.;I+love+Basketball.;I+use+VS+code+BTW.;I+love+my+mom+and+dad."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&height=30&random=false&width=435&lines=Welcome+to+my+github+profile!;Im+new+in+programming.;I+love+Basketball.;I+use+vs+code+BTW.;I+love+my+mom+and+dad."/>
 
 
 <!--
