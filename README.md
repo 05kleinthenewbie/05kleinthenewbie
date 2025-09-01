@@ -1,7 +1,7 @@
 ## Hi there 👋 its me 05kleinthenewbie
 
 <p align="center"> 
-<img width="100px" src= https://github.com/05kleinthenewbie/05kleinthenewbie/blob/f4ac9982ba6b68bb5715e801a363930929fcb726/IMG20250325071200.jpg align="center" alt="GitHub Readme Stats" style="border-radius: 50%; display: block; margin: auto;" />
+<img width="100px" src= https://github.com/05kleinthenewbie/05kleinthenewbie/blob/f4ac9982ba6b68bb5715e801a363930929fcb726/IMG20250325071200.jpg align="center" style="border-radius: 50%; display: block; margin: auto;" />
 <h2 align="center">Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"/>, its me 05kleinthenewbie</h2>
 </p>
 </p>
