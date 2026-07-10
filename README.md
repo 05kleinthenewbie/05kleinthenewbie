@@ -28,12 +28,12 @@
 
 ### 🔭 What I'm Currently Working On
 > 🎓 Building my **capstone project** — a Web-Based ICT Management and Information System for USTP Balubal Campus, using **Laravel, React (Inertia), and MySQL**  
-> 🎮 Also exploring **mobile app development** using **Unity**, focusing on **cross-platform experiences** and **interactive design**
+
 
 ---
 
 ### 🌱 Currently Learning
-> 🧠 Improving my skills in **Laravel**, **React**, **C#**, **Unity scripting**, and **mobile UI/UX fundamentals**  
+> 🧠 Improving my skills in **Laravel**, **React**, **TS** and  **Tailwincss**  
 
 ---
 
