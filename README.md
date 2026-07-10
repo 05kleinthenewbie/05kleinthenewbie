@@ -11,7 +11,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,ts,js,html,css,react,tailwind,vscode,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,ts,js,html,css,react,tailwind,vscode,xampp,github&theme=dark" />
 </p>
 
 <p align="center">
