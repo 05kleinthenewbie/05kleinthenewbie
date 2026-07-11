@@ -31,11 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=05kleinthenewbie&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=AAD100&icon_color=AAD100" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=05kleinthenewbie&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=AAD100" />
-</p>
 
 ### 🔥 Streak Stats
 <p align="center">
