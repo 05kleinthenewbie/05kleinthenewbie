@@ -11,11 +11,11 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,ts,js,html,css,react,tailwind,vscode,xampp,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,ts,js,html,css,react,tailwind,vscode,github&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+new+to+programming.;I+love+Basketball.;I+use+VS+Code+BTW.;I+love+my+mom+and+dad.💖"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&color=AAD100&width=500&lines=Welcome+to+my+GitHub+Profile!;I'm+new+to+programming.;I+love+Basketball.;I+use+VS+Code+BTW.;I+love+ballin🏀"/>
 </p>
 
 <p align="center">
