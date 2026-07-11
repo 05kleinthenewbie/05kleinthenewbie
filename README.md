@@ -42,11 +42,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=05kleinthenewbie&theme=radical&hide_border=true&background=0D1117&ring=AAD100&fire=AAD100&currStreakLabel=AAD100&sideNums=AAD100&dates=888888" />
 </p>
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=05kleinthenewbie&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</p>
-
 ### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=05kleinthenewbie&theme=react-dark&bg_color=0D1117&color=AAD100&line=AAD100&point=ffffff&hide_border=true" />
